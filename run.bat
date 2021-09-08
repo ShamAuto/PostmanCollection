@@ -1,0 +1,1 @@
+newman run Test_Postman1.postman_collection.json
